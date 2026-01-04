@@ -1,5 +1,6 @@
 <h2>AI Chef</h2>
 
+<p>https://vercel.com/jaeyoons-projects-fcd997c8/ai-chef</p>
 <ol>
   <li>Type in ingredients you have(more than 3)</li>
   <li>Click "Get a recipe" button</li>
